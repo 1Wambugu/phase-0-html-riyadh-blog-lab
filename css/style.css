@@ -8,19 +8,19 @@ html, body {
 body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment:fixed;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
-}
+  font-size: 50%;
+  }
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
-  padding-bottom: 40px;
+  width: 20%;
+  padding-bottom: 0px;
 }
 
 #content {
-  padding: 20px;
+  padding: 1%;
   background: rgba(255,255,255,.85);
 }
 
@@ -30,7 +30,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 2.5em;
   margin-bottom: 0;
 }
 
